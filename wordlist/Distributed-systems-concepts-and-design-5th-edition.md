@@ -19,3 +19,5 @@
 18. At one end of the __spectrum__, a user may opt for a remote storage facility for file storage requirements (for example, for multimedia data such as photographs, music or video) and/or for backups.
 19. Possible models include remote object invocation, __remote event notification__, remote SQL access and distributed transaction processing.
 20. Another security problem is that a user may wish to __disrupt a service__ for some reason. This can be achieved by bombarding the service with such a large number of pointless requests that the serious users are unable to use it. This is called a __denial of service attack__.
+21. Transparency is defined as the __concealment__ from the user and the application programmer of the separation of components in a distributed system, so that the system is perceived as a whole rather than as a collection of independent components.
+22. The performance aspect of quality of service was originally defined in terms of __responsiveness and computational throughput__, but it has been redefined in terms of ability to meet __timeliness__ guarantees, as discussed in the following paragraphs.
